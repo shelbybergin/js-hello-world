@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('dog','cat');
+console.log('Hello, world!');
+console.log("Joobbbbefbal");
+console.log(7,2,3,9)
 
+console.log(typeof 'Hello, world!');
+console.log(typeof "Joobbbefbal");
+console.log(typeof 7 2 3 9)
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
